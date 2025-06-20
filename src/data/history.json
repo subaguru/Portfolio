@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Software Developer",
+      "organisation": "GT SOFTWARE COLLEGE",
+      "startDate": "January 2024",
+      "endDate": "Present",
+      "experiences": ["Designed and implemented scalable RESTful APIs and real-time data services using Node.js (Express) and MongoDB with aggregation pipelines, indexing strategies, and schema validation with Mongoose.",
+      "Integrated third-party services (AWS S3) and built role-based access control systems with JWT and refresh token strategies to secure backend endpoints." ,
+      "Deployed applications with CI/CD pipelines and  microservices using AWS EC2."]
+    },
+   
+    {
+      "role": "Junior Software Developer",
+      "organisation": "GT SOFTWARE COLLEGE",
+      "startDate": "January 2024",
+      "endDate": "July 2023",
+      "experiences": ["Implemented client-specific UI improvements using React and Redux.",
+       "Integrated POSTMAN for API documentation, reducing testing efforts by 50%"]
+    }
+]
