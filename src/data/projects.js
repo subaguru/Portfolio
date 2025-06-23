@@ -7,7 +7,7 @@ export const projects=[
     {
       "title": "Netliflix",
       "imageSrc":netflix,
-      "description": "This project is a Netflix-inspired application powered by GPT and TMDB APIs.",
+      "description": "This project is a Netflix-inspired application powered by TMDB APIs.",
       "skills": ["React", "Redux", "Tailwind"],
       "source": "https://github.com/subaguru/Netliflix",
       "visit":"https://netliflix.onrender.com"
