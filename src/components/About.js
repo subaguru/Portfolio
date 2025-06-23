@@ -24,14 +24,14 @@ const About = () => {
                     <img src={uiIcon} alt='cursorIcon'/>
                     <div className='aboutDescription'>
                         <h3>Backend Development</h3>
-                        <p>Experience with Node.js and Psotman for API development and server-side logic.                       </p>
+                        <p>Experience with Node.js and Postman for API development and server-side logic.                       </p>
                     </div>
                 </li>
                 <li className='aboutItem'>
                     <img src={serverIcon} alt='cursorIcon'/>
                     <div className='aboutDescription'>
                         <h3>Database Development</h3>
-                        <p>Strong expertise in MONGODB, Aggregation, and Indexing.
+                        <p>Strong expertise in MONGODB,MYSQL with Aggregation, and Indexing.
                         </p>
                     </div>
                 </li>
